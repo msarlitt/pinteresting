@@ -4,13 +4,15 @@ $body-bg: 							#3498db;
 $font-family-sans-serif: 			'Oxygen', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $text-color: 						#ecf0f1;
 $navbar-height: 					45px;
-$navbar-inverse-bg: 				#ecf0f1;
+$navbar-inverse-bg: 				white;
 $navbar-inverse-link-color:			#3498db;
 $navbar-inverse-link-hover-color:	#c0392b;
+$navbar-default-brand-hover-color:	#c0392b;
+$navbar-border-radius:				0;
 $brand-primary:						#c0392b;
 $jumbotron-bg:						#3498db;
 $jumbotron-color: 					#ecf0f1;
-$border-radius-base: 				0;
+
 
 @import 'bootstrap';
 
